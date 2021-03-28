@@ -1,0 +1,23 @@
+{
+  "name": "MoldyMacaroniX-Personal-Website",
+  "version": "1.0.0",
+  "description": "This is my personal web project. Just for fun.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoldyMacaroniX/MoldyMacaroniX-Personal-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoldyMacaroniX/MoldyMacaroniX-Personal-Website/issues"
+  },
+  "homepage": "https://github.com/MoldyMacaroniX/MoldyMacaroniX-Personal-Website#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
