@@ -1,0 +1,76 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{{title}} | MoldyMacaroniX</title>
+        <link rel="stylesheet" href="/assets/index.css">
+
+        <!--Font Awesome-->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    </head>
+    <body>
+
+        <nav>
+            <ul class="nav">
+                <li><a href="/"><i class="fa fa-home fa-xs"></i> Home</a></li>
+                <li><a href="/about/"><i class="fa fa-info-circle fa-xs"></i> About</a></li>
+                <li><a><i class="fa fa-play fa-xs"></i> Videos</a></li>
+                <li><a><i class="fa fa-envelope fa-xs"></i> Community</a></li>
+            </ul>
+            <ul class="socials">
+                <li><a class="fab fa-youtube" href="https://www.youtube.com/moldymacaronix"></a></li>
+                <li><a class="fab fa-twitter" href="https://twitter.com/moldymacaronix"></a></li>
+                <li><a class="fab fa-discord" href="https://discord.gg/PqTUgx6"></a></li>
+            </ul>
+            <ul class="mobile">
+                <li></li>
+            </ul>
+            <ul class="mobile">
+                <li><a class="fa fa-bars fa-2x" href="#" style="margin-right: 15px;"></a></li>
+            </ul>
+        </nav>
+
+        <div class="container main">
+
+            {{content | safe}}
+
+        </div>
+
+        <footer>
+            <div class="footcontent">
+
+                <div>
+                    <h1>MoldyMacaroniX</h1>
+                    <p>
+                        Copyright © 2020-2021 MoldyMacaroniX
+                    </p>
+                    <p>
+                        <a class="fab fa-youtube" href="https://www.youtube.com/moldymacaronix"></a> <a class="fab fa-twitter" href="https://twitter.com/moldymacaronix"></a> <a class="fab fa-discord" href="https://discord.gg/PqTUgx6"></a>
+                    </p>
+                </div>
+
+                <div>
+                    <h1>Main</h1>
+                    <p>
+                        <a class="link" href="/">Home</a><br>
+                        <a class="link" href="/about/">About</a><br>
+                        <a class="link">Videos</a><br>
+                        <a class="link">Community</a>
+                    </p>
+                </div>
+
+                <div>
+                    <h1>Extra</h1>
+                    <p>
+                        <a class="link">Changelog</a><br>
+                        <a class="link">YouTube Video Previewer</a><br>
+                        <a class="link">Unique Idea Generator</a>
+                    </p>
+                </div>
+
+            </div>
+        </footer>
+
+    </body>
+</html>

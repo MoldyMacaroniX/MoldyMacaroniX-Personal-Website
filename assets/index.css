@@ -1,0 +1,273 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap'); /*Roboto*/
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    word-wrap: break-word;
+}
+
+*:focus {
+    transition: all 0.3s ease;
+    outline: none;
+    box-shadow: 0 0 0 5px rgba(228, 21, 228, 0.4);
+}
+
+iframe {
+    width: 100%;
+}
+
+
+
+
+
+/* Helpers and Main */
+
+.gap {
+    visibility: hidden;
+    height: 35px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 15px;
+}
+
+.main h1 {
+    font-size: 55px;
+    margin: 75px 0;
+}
+
+.main h2 {
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.main p {
+    font-size: 25px;
+    line-height: 1.5em;
+}
+
+.main a {
+    background:
+    linear-gradient(
+      to bottom, rgba(255, 124, 244, 0.5) 0%,
+      rgba(255, 124, 244, 0.5) 100%
+    );
+   background-position: 0 100%;
+   background-repeat: repeat-x;
+   background-size: 4px 10%;
+   transition: all .3s;
+   text-decoration: none;
+   color: black;
+}
+
+.main a:hover {
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    background-size: 4px 100%;
+    color: #ff00f2;
+}
+
+
+
+
+
+
+/* Layout Stuff */
+
+.twocolumn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.twocolumn .column {
+    width: 49%;
+    margin: 30px 0;
+}
+
+.threecolumn {
+    display: flex;
+    justify-content: space-between;
+}
+
+.threecolumn .column {
+    width: 32%;
+    margin: 30px 0;
+}
+
+
+
+
+
+/* Nav */
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+nav ul {
+    padding: 0;
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    color: rgba(0, 0, 0, 0.8);
+    text-decoration: none;
+}
+
+nav .nav li {
+    margin-left: 15px;
+    font-size: 22px;
+}
+
+nav .socials .fab {
+    font-size: 30px;
+    margin-right: 15px;
+}
+
+nav ul li a:hover {
+    color: #ff00fb6b;
+    cursor: pointer;
+}
+
+nav .nav .fa {
+    color: #ff00fb;
+}
+
+.mobile {
+    display: none;
+}
+
+
+
+
+
+
+
+
+/* Footer */
+
+footer {
+    background: rgba(143, 114, 140, 0.15);
+    padding: 10px;
+    margin-top: 70px;
+}
+
+footer .footcontent {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 15px;
+}
+
+footer .footcontent div {
+    width: 32%;
+}
+
+footer .fab {
+    color: rgba(0, 0, 0, 0.8);
+    text-decoration: none;
+    font-size: 30px;
+}
+
+footer h1 {
+    font-size: 30px;
+}
+
+footer p {
+    font-size: 20px;
+}
+
+footer .link {
+    background:
+    linear-gradient(
+      to bottom, rgba(255, 124, 244, 0.5) 0%,
+      rgba(255, 124, 244, 0.5) 100%
+    );
+   background-position: 0 100%;
+   background-repeat: repeat-x;
+   background-size: 4px 10%;
+   transition: all .3s;
+   text-decoration: none;
+   color: black;
+}
+
+footer .link:hover {
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    background-size: 4px 100%;
+    color: #ff00f2;
+}
+
+
+
+
+
+/* Components */
+
+.main .button {
+    display: inline-block !important;
+    text-decoration: none !important;
+    color: white !important;
+    background: #ff00fb !important;
+    padding: 20px 30px !important;
+    border-radius: 10px !important;
+    font-size: 25px !important;
+    font-weight: bold !important;
+    margin-right: 12px !important;
+    transition: none !important;
+}
+
+.main .button:hover {
+    background: #ce00ca !important;
+}
+
+.button2 {
+    display: inline-block !important;
+    text-decoration: none !important;
+    color: #ff00fb !important;
+    background: #ff00fb00 !important;
+    padding: 20px 30px !important;
+    border-radius: 10px !important;
+    font-size: 25px !important;
+    font-weight: bold !important;
+    margin-right: 12px !important;
+    transition: none !important;
+}
+
+.button2:hover {
+    background: #ff44fc2a !important;
+}
+
+.card {
+    background: rgba(223, 173, 218, 0.1);
+    padding: 10px 40px;
+    -webkit-box-shadow: 1px 3px 10px 2px rgba(0,0,0,0.15); 
+    box-shadow: 1px 3px 10px 2px rgba(0,0,0,0.15);
+    border-radius: 10px;
+}
+
+.card h3 {
+    font-size: 30px;
+}
+
+.cardlink {
+    text-decoration: none !important;
+    color: #ce00ca !important;
+    background: none !important;
+}
+
+
+
+
+
+
