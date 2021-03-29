@@ -1,6 +1,6 @@
 ---
 layout: default.njk
-title: Page 2
+title: About
 ---
 
 # Here is a bit about me.

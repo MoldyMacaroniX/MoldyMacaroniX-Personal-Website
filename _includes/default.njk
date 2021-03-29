@@ -5,18 +5,21 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>{{title}} | MoldyMacaroniX</title>
         <link rel="stylesheet" href="/assets/index.css">
+        <link rel="icon" href="/assets/images/icon.png">
 
         <!--Font Awesome-->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
     </head>
     <body>
 
+        <div class="scrollTop" id="scrollTop"><a class="fa fa-chevron-up fa-3x" onclick="up()"></a></div>
+
         <nav>
             <ul class="nav">
                 <li><a href="/"><i class="fa fa-home fa-xs"></i> Home</a></li>
                 <li><a href="/about/"><i class="fa fa-info-circle fa-xs"></i> About</a></li>
-                <li><a><i class="fa fa-play fa-xs"></i> Videos</a></li>
-                <li><a><i class="fa fa-envelope fa-xs"></i> Community</a></li>
+                <li><a href="/videos/"><i class="fa fa-play fa-xs"></i> Videos</a></li>
+                <li><a href="/community/"><i class="fa fa-envelope fa-xs"></i> Community</a></li>
             </ul>
             <ul class="socials">
                 <li><a class="fab fa-youtube" href="https://www.youtube.com/moldymacaronix"></a></li>
@@ -27,7 +30,7 @@
                 <li></li>
             </ul>
             <ul class="mobile">
-                <li><a class="fa fa-bars fa-2x" href="#" style="margin-right: 15px;"></a></li>
+                <li><i class="fa fa-bars fa-2x" href="#" style="margin-right: 15px;"></i></li>
             </ul>
         </nav>
 
@@ -55,22 +58,48 @@
                     <p>
                         <a class="link" href="/">Home</a><br>
                         <a class="link" href="/about/">About</a><br>
-                        <a class="link">Videos</a><br>
-                        <a class="link">Community</a>
+                        <a class="link" href="/videos/">Videos</a><br>
+                        <a class="link" href="/community/">Community</a>
                     </p>
                 </div>
 
                 <div>
                     <h1>Extra</h1>
                     <p>
-                        <a class="link">Changelog</a><br>
-                        <a class="link">YouTube Video Previewer</a><br>
-                        <a class="link">Unique Idea Generator</a>
+                        <a class="link" href="/changelog/">Changelog</a><br>
+                        <a class="link" href="/tools/youtube-video-previewer/">YouTube Video Previewer</a><br>
+                        <a class="link" href="/tools/unique-idea-generator/">Unique Idea Generator</a>
                     </p>
                 </div>
 
             </div>
         </footer>
+
+        <script>
+        // scrollTopButton
+        var scrollTopButton = document.getElementById("scrollTop");
+  
+  
+  
+        // When the user scrolls down 20px from the top of the document, show the button
+        window.onscroll = function() {scrollFunction()};
+  
+        function scrollFunction() {
+          if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            scrollTopButton.style.transform = "translateX(0%)";
+          } else {
+            scrollTopButton.style.transform = "translateX(100%)";
+          }
+        }
+  
+  
+  
+        // When the user clicks on the button, scroll to the top of the document
+        function up() {
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+        }
+      </script>
 
     </body>
 </html>
