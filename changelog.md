@@ -9,11 +9,12 @@ title: Changelog
 
 ## v1.0: Another New Beginning!
 
-So I redesigned and completely rebuilt the site... again. I know that the old site hasn't even been around for a year yet, but I wanted to turn this project *into something more.* By that, I mean I started a [GitHub repository]() for this place and rebuilt it entirely with [Eleventy](). Here is a list of some notable differences between this new site and the previous version.
+So I redesigned and completely rebuilt the site... again. I know that the old site hadn't even been around for a year yet, but I wanted to turn this project *into something more.* By that, I mean I started a [GitHub repository]() for this place and rebuilt it entirely with [Eleventy](). Here is a list of some notable differences between this new site and the previous version.
 
-* Replaced the frequently asked questions page with a brand new [about page]()! This one still features some of the most common FAQs though.
+* Replaced the frequently asked questions page with a brand new [about page]()! I may add a new FAQ page in the future though.
 * Scrapped the website news board originally found on the [community page](). It was pretty pointless.
 * Completely scrapped the DeltaStorm page. It was also pretty pointless.
+* My [Discord Server Rules]() are now back online.
 
 And for some behind the scenes stuff...
 

@@ -1,8 +1,11 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
     <head>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="{{desc}}">
+        <meta name="keywords" content="MoldyMacaroniX,CreatorMoldy">
         <title>{{title}} | MoldyMacaroniX</title>
         <link rel="stylesheet" href="/assets/index.css">
         <link rel="icon" href="/assets/images/icon.png">
@@ -13,6 +16,18 @@
     <body>
 
         <div class="scrollTop" id="scrollTop"><a class="fa fa-chevron-up fa-3x" onclick="up()"></a></div>
+
+        <div class="mobilenav" id="mobile">
+            <i class="fa fa-times fa-2x" tabindex=0 onclick="closeMobile()"></i>
+            <p>
+                <a href="/"><i class="fa fa-home fa-xs"></i> Home</a><br>
+                <a href="/about/"><i class="fa fa-info-circle fa-xs"></i> About</a><br>
+                <a href="/videos/"><i class="fa fa-play fa-xs"></i> Videos</a><br>
+                <a href="/community/"><i class="fa fa-envelope fa-xs"></i> Community</a>
+            </p>
+        </div>
+
+        <div class="coverscreen" id="cover"></div>
 
         <nav>
             <ul class="nav">
@@ -27,10 +42,10 @@
                 <li><a class="fab fa-discord" href="https://discord.gg/PqTUgx6"></a></li>
             </ul>
             <ul class="mobile">
-                <li></li>
+                <li><a href="/"><img src="/assets/images/icon.png" alt="logo"></a></li>
             </ul>
             <ul class="mobile">
-                <li><i class="fa fa-bars fa-2x" href="#" style="margin-right: 15px;"></i></li>
+                <li><i class="fa fa-bars fa-2x" style="margin-right: 15px; cursor: pointer;" tabindex=0 onclick="openMobile()"></i></li>
             </ul>
         </nav>
 
@@ -75,31 +90,7 @@
             </div>
         </footer>
 
-        <script>
-        // scrollTopButton
-        var scrollTopButton = document.getElementById("scrollTop");
-  
-  
-  
-        // When the user scrolls down 20px from the top of the document, show the button
-        window.onscroll = function() {scrollFunction()};
-  
-        function scrollFunction() {
-          if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-            scrollTopButton.style.transform = "translateX(0%)";
-          } else {
-            scrollTopButton.style.transform = "translateX(100%)";
-          }
-        }
-  
-  
-  
-        // When the user clicks on the button, scroll to the top of the document
-        function up() {
-            document.body.scrollTop = 0;
-            document.documentElement.scrollTop = 0;
-        }
-      </script>
+        <script src="/assets/index.js"></script>
 
     </body>
 </html>
