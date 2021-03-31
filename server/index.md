@@ -8,6 +8,8 @@ desc: MoldyMacaroniX is a Geometry Dash content creator on YouTube.
 
 We require all members to follow these guidelines to create a safe and accepting environment for everyone. If you have any questions, you can ask an online server Admin.
 
+---
+
 ## 1. Avoid forms of spam.
 
 This includes, but is not limited to: sending messages at a rapid pace, irrelevant posting, randomly pinging, emote spam, impersonation, text walls, trolling, and posting content where it does not belong. Likewise, we have an enforced nicknaming system, so do not use any VIP and staff role symbols in your nicknames.
