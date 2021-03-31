@@ -303,6 +303,7 @@ footer .link:hover {
     font-weight: bold !important;
     margin-right: 12px !important;
     transition: none !important;
+    margin: 10px 0;
 }
 
 .main .button:hover {
@@ -320,6 +321,7 @@ footer .link:hover {
     font-weight: bold !important;
     margin-right: 12px !important;
     transition: none !important;
+    margin: 3px 0;
 }
 
 .button2:hover {
