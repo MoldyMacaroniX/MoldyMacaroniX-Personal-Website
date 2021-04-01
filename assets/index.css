@@ -78,6 +78,11 @@ hr {
     margin: 55px 0;
 }
 
+.main img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
 
 
 
@@ -199,7 +204,7 @@ nav .nav .fa {
     color: #ff00fb;
 }
 
-.mobilenav .fa-times {
+.mobilenav .closemobile {
     color: black !important;
     display: block;
     width: 50px;

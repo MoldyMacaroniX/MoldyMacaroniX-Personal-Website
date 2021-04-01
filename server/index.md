@@ -1,8 +1,7 @@
 ---
 layout: default.njk
 title: Discord Server Rules
-desc: MoldyMacaroniX is a Geometry Dash content creator on YouTube.
-permalink: /rules/
+desc: MoldyMacaroniX Discord Server Rules
 ---
 
 # MoldyMacaroniX Discord Server Rules
