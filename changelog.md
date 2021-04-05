@@ -23,4 +23,4 @@ And for some behind the scenes stuff...
 * Most pages are now written in markdown! This makes the pages and the site as a whole much, *much* easier to manage. This means this place can finally grow in directions that it couldn't previously.
 * This website is now built with [Eleventy](). I've always loved this SSG, so finally being able to use it in a project is great.
 * No CMS yet but I may consider getting one down the line.
-* You can now find this [website's source code]() on GitHub, just in case you want to see it for some reason.
+* You can now find this [website's source code]() on GitHub, just in case you want to see it for whatever reason.

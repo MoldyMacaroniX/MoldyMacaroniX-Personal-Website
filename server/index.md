@@ -36,6 +36,6 @@ Failure to follow these guidelines will result in consequences ranging from warn
 
 The safety of the server and our members is of our utmost importance. If staff notice a potential threat such as deceiving or malicious behavior, they will take action. You are expected to use common sense and be a good member of our community.
 
-Please also be sure to follow Discord's [Terms of Service]() and [Community Guidelines]().
+Please also be sure to follow Discord's [Terms of Service](https://discordapp.com/terms) and [Community Guidelines](https://discordapp.com/guidelines).
 
 <a class="button" href="https://discord.gg/PqTUgx6">Ready To Join?</a>

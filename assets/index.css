@@ -33,6 +33,10 @@ iframe {
     padding: 0 15px;
 }
 
+.main {
+    min-height: 60vh;
+}
+
 .main h1 {
     font-size: 55px;
     margin: 75px 0;
@@ -334,7 +338,7 @@ footer .link:hover {
 }
 
 .card {
-    background: rgba(223, 173, 218, 0.1);
+    background: rgb(255, 242, 254);
     padding: 10px 40px;
     -webkit-box-shadow: 1px 3px 10px 2px rgba(0,0,0,0.15); 
     box-shadow: 1px 3px 10px 2px rgba(0,0,0,0.15);
@@ -353,10 +357,12 @@ footer .link:hover {
 }
 
 .alert {
-    background: rgba(223, 173, 218, 0.2);
+    background: rgb(255, 237, 253);
     padding: 20px 30px;
     border-left: #ff00fb solid 5px;
     border-radius: 10px;
+    -webkit-box-shadow: 1px 3px 10px 2px rgba(0,0,0,0.15); 
+    box-shadow: 1px 3px 10px 2px rgba(0,0,0,0.15);
 }
 
 /*Specifically for putting icons before h1s, as seen on the main site pages.*/
@@ -381,13 +387,15 @@ footer .link:hover {
     list-style: none;
     width: 100%;
     border-collapse: collapse;
+    -webkit-box-shadow: 1px 3px 10px 2px rgba(0,0,0,0.15); 
+    box-shadow: 1px 3px 10px 2px rgba(0,0,0,0.15);
+    background: rgb(255, 237, 253);
+    border-left: 5px solid #ff00f2;
 }
 
 .history li {
     display: table-row;
     font-size: 22px;
-    border-left: 5px solid #ff00f2;
-    background: rgba(223, 173, 218, 0.2);
 }
 
 .history .date {
@@ -395,6 +403,39 @@ footer .link:hover {
     width: 25%;
     text-align: center;
     padding: 10px 0;
+}
+
+.signoff {
+    display: flex;
+
+    background: rgb(255, 242, 254);
+    padding: 20px 20px;
+    -webkit-box-shadow: 1px 3px 10px 2px rgba(0,0,0,0.15); 
+    box-shadow: 1px 3px 10px 2px rgba(0,0,0,0.15);
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.signoff-img img {
+    max-width: 100px;
+    border-radius: 50%;
+}
+
+.signoff-content {
+    margin-left: 30px;
+}
+
+.signoff-content-name {
+    display: block;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.signoff-content-desc {
+    display: block;
+    font-size: 20px;
+    margin: 10px 0;
+    line-height: 1.5em;
 }
 
 
@@ -429,6 +470,19 @@ footer .link:hover {
     text-align: center;
     -webkit-box-shadow: 0px 1px 5px 1px rgba(0,0,0,0.5); 
     box-shadow: 0px 1px 5px 1px rgba(0,0,0,0.5);
+}
+
+.hexagon-svg {
+    position: absolute;
+    z-index: -1;
+    height: 100%;
+}
+
+.hexagon {
+    stroke :#ff00fb11;
+    stroke-width: 65;
+    fill: rgba(255, 255, 255, 0);
+    transform: translate(200px, 250px)
 }
 
 
@@ -497,6 +551,18 @@ footer .link:hover {
 
     .main .button, .main .button2 {
         font-size: 22px !important;
+    }
+
+    .signoff-img img {
+        max-width: 50px;
+    }
+
+    .signoff-content-name {
+        font-size: 21px;
+    }
+    
+    .signoff-content-desc {
+        font-size: 15px;
     }
 }
 
