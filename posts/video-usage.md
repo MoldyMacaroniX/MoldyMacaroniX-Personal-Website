@@ -4,7 +4,7 @@ title: Video Usage
 desc: I'm not going to over-complicate this or anything, but just keep it simple without any jargon.
 ---
 
-# Here is how you can use [my videos]().
+# Here is how you can use [my videos](/videos/).
 
 <p class="alert">This basically sums up to "don't blatantly reupload my videos."</p>
 
