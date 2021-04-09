@@ -16,7 +16,7 @@ So I redesigned and completely rebuilt the site... again. I know that the old si
 * Completely scrapped the DeltaStorm page. It was also pretty pointless.
 * Beautiful links, thanks to the way Eleventy generates content! (`videos.html` becomes `/videos/`) This might cause old links to break though, leading to the 404 page.
 * My [Discord Server Rules](/server/) are now back online.
-* My [web tools]() are now under `/tools/`. This means, for example, if you want to go to my [unique idea generator](/tools/unique-idea-generator/), you have to go to `moldymacaronix.netlify.app/tools/unique-idea-generator/`.
+* My [web tools](/tools/) are now under `/tools/`. This means, for example, if you want to go to my [unique idea generator](/tools/unique-idea-generator/), you have to go to `moldymacaronix.netlify.app/tools/unique-idea-generator/`.
 * Removed CoverFrame. That was a good riddance.
 
 And for some behind the scenes stuff...
