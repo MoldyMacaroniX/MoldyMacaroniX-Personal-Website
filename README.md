@@ -4,8 +4,6 @@ This is the repository for my [personal website](https://moldymacaronix.netlify.
 
 This README will outline most things about the site.
 
-> Project is still work in progress. (And by extentsion, so is this README.)
-
 ## Site Details
 
 * This site was built with [Eleventy](https://www.11ty.dev/).
