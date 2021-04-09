@@ -87,6 +87,11 @@ hr {
     border-radius: 10px;
 }
 
+.box-shadow {
+    -webkit-box-shadow: 1px 3px 10px 2px rgba(0,0,0,0.15); 
+    box-shadow: 1px 3px 10px 2px rgba(0,0,0,0.15);
+}
+
 
 
 
@@ -563,6 +568,10 @@ footer .link:hover {
     
     .signoff-content-desc {
         font-size: 15px;
+    }
+
+    .signoff-content {
+        margin-left: 10px;
     }
 }
 

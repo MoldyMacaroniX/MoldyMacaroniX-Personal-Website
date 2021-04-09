@@ -2,6 +2,8 @@
 
 This is the repository for my [personal website](https://moldymacaronix.netlify.app/). You are probably here because you want to see the source code. In that regard, **I apologize for the most-likely horrible code.** But at the end of the day, everything seems to work, so that's all I could ask for.
 
+This README will outline most things about the site.
+
 > Project is still work in progress. (And by extentsion, so is this README.)
 
 ## Site Details
@@ -31,3 +33,25 @@ Not sure why anyone would even want a local copy of this site but it's an option
 ## Issues
 
 As of currently, this project is still work in progress. This means there are some little issues that I should fix before I deploy the site. Whether it be little things like links that don't go anywhere or unfinished pages, please excuse these for the time being. If there are any issues that you think I haven't caught yet, feel free to let me know!
+
+## Folders
+
+This next section is more for me to figure out where I put stuff than anything else.
+
+### _includes
+
+Contains the templates the site is generated with.
+
+### assets
+
+Contains the CSS file, JS file, and images the site uses.
+
+### static
+
+Contains files that will be generated in the root directory of the site.
+
+### Everything Else
+
+Just housing other site content to keep things somewhat organized.
+
+Any suggestions on how to make this project more organized is greatly appreciated!

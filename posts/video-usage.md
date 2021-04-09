@@ -10,7 +10,7 @@ desc: I'm not going to over-complicate this or anything, but just keep it simple
 
 I'm not going to over-complicate this or anything, but just keep it simple without any jargon.
 
-* Obviously, using my videos for anything under fair use is allowed. This includes quoting or referencing certain parts.
+* Obviously, using my videos for anything under fair use is allowed. This includes quoting or referencing certain parts via short clips.
 * Blatantly reuploading my videos is not cool. This includes reuploading videos for translations. YouTube automatically detects reuploads of my videos, so please don't try it.
 
 Quoting certain parts of my videos (playing a small clip of one) in your own content is perfectly okay. As usual, I would appreciate something like a link to my original video in the description, perhaps under a "sources" category. We're all friends here.
