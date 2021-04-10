@@ -28,10 +28,6 @@ If anyone has any actual detailed instructions that work, sharing them would be 
 
 Not sure why anyone would even want a local copy of this site but it's an option I guess.
 
-## Issues
-
-As of currently, this project is still work in progress. This means there are some little issues that I should fix before I deploy the site. Whether it be little things like links that don't go anywhere or unfinished pages, please excuse these for the time being. If there are any issues that you think I haven't caught yet, feel free to let me know!
-
 ## Folders
 
 This next section is more for me to figure out where I put stuff than anything else.
