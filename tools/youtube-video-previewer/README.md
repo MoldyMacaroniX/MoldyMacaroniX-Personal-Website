@@ -1,4 +1,4 @@
-## YouTube Video Previewer
+# YouTube Video Previewer
 
 A tool that takes input and generates it in a way near-identical to the YouTube home page. It is useful for seeing when titles truncate and how thumbnails will look (seriously, YouTube should totally make a feature that does this). It is kind of like inspect element— actually, it pretty much *is* inspect element.
 
