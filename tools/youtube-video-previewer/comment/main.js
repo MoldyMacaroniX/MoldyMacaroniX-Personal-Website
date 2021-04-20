@@ -22,6 +22,10 @@ function generateVideo() {
         document.getElementById("reply").innerText = document.getElementById("new-reply").value;
     }
 
+    if (document.getElementById("new-avatar").value !== '') {
+        document.getElementById("avatar").src = document.getElementById("new-avatar").value;
+    }
+
     if (document.getElementById("new-dislikes").value !== '') {
         document.documentElement.style
         .setProperty('--dislikes', 'display-block');
