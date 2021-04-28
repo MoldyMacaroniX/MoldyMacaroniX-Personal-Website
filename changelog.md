@@ -7,6 +7,11 @@ title: Changelog
 
 <p class="alert">You can view this <a href="https://github.com/MoldyMacaroniX/MoldyMacaroniX-Personal-Website">website's source code</a> on GitHub.</p>
 
+## v2.0: A bunch of little fixes.
+
+* My Discord server rules have [moved once again](https://docs.google.com/document/d/1ocPJN3eUK6OSv4PvypYauZ5n_YtdhRSfxZApPuzbMY0/edit?usp=sharing).
+* A bunch of little fixes, whether it was inconsistencies or outdated information.
+
 ## v1.0: Another New Beginning!
 
 So I redesigned and completely rebuilt the site... again. I know that the old site hadn't even been around for a year yet, but I wanted to turn this project *into something more.* By that, I mean I started a [GitHub repository](https://github.com/MoldyMacaroniX/MoldyMacaroniX-Personal-Website) for this place and rebuilt it entirely with [Eleventy](https://www.11ty.dev/). Here is a list of some notable differences between this new site and the previous version.
