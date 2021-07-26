@@ -2,6 +2,8 @@
 layout: post.njk
 title: Video Usage
 desc: I'm not going to over-complicate this or anything, but just keep it simple without any jargon.
+date: 2021-03-26
+tags: post
 ---
 
 # Here is how you can use [my videos](/videos/).

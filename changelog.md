@@ -7,7 +7,12 @@ title: Changelog
 
 <p class="alert">You can view this <a href="https://github.com/MoldyMacaroniX/MoldyMacaroniX-Personal-Website">website's source code</a> on GitHub.</p>
 
-## v2.0: A bunch of little fixes.
+## v1.2: Some things.
+
+* [The posts page](/posts/) now shows all posts.
+* I updated the [unique idea generator](/tools/unique-idea-generator/), giving it more features.
+
+## v1.1: A bunch of little fixes.
 
 * My Discord server rules have [moved once again](https://docs.google.com/document/d/1ocPJN3eUK6OSv4PvypYauZ5n_YtdhRSfxZApPuzbMY0/edit?usp=sharing).
 * A bunch of little fixes, whether it was inconsistencies or outdated information.
