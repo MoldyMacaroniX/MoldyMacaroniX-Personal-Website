@@ -24,20 +24,21 @@ Are you bored and need some Geometry Dash content? Look no further than this lis
 
 ## The List
 
-* [MatMart]()
-* [Krisz]()
-* [EricVanWilderman]()
-* [Juniper]()
-* [Colon]()
-* [Efext]()
-* [Sea1997]() (doesn't make GD content anymore but has a wide selection of old ones)
-* [Alias]()
-* [Ender]()
-* [Vortrox]()
-* [Klaux]()
-* [Sdslayer]()
-* [Flaaroni]()
-* [Norkbork]()
-* [MoldyMacaroniX]() - Me :D
+* [MatMart](https://www.youtube.com/user/thepokemastermat)
+* [Krisz](https://www.youtube.com/channel/UCfWN9ZHRx0xsmA6PVGl2r5Q)
+* [EricVanWilderman](https://www.youtube.com/user/EricVanWilderman)
+* [Juniper](https://www.youtube.com/channel/UCOE3keaPI49vGbygNwsNqgA)
+* [Colon](https://www.youtube.com/channel/UCFDsxSlQXpLLpVScy2NmbcQ)
+* [Electrify](https://www.youtube.com/channel/UCxYliOd2aV6iZuc5wuG9QxA)
+* [Efext](https://www.youtube.com/channel/UCidCgT91Nluu_YVIRDQ2tNg)
+* [Sea1997](https://youtube.com/playlist?list=PLkoaIad9k4NLhYr7KSzpK9aWSfXDDkB3x) (doesn't make GD content anymore but has a wide selection of old ones)
+* [Alias](https://www.youtube.com/user/efreet457)
+* [Ender](https://www.youtube.com/channel/UC1Y2wJLzR-Qt8V_5Cmh75pA)
+* [Vortrox](https://www.youtube.com/channel/UCEq8Izumuxv6KqB59FNlouQ)
+* [Klaux](https://www.youtube.com/channel/UCdWm8K5kmD__n7fFKciD62g)
+* [Sdslayer](https://www.youtube.com/user/sdslayer100)
+* [Flaaroni](https://www.youtube.com/channel/UCkXJ9Egumwqpo116S_S2vtQ)
+* [Norkbork](https://www.youtube.com/channel/UCy0_LjTdg9YZucywfL82BZQ)
+* [MoldyMacaroniX](https://www.youtube.com/c/MoldyMacaroniX) - Me :D
 
 I will add more creators here as I discover them. Hopefully you now know where to find some Geometry Dash content when you're bored and could really use some.
