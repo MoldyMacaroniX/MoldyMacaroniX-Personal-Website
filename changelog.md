@@ -7,6 +7,12 @@ title: Changelog
 
 <p class="alert">You can view this <a href="https://github.com/MoldyMacaroniX/MoldyMacaroniX-Personal-Website">website's source code</a> on GitHub.</p>
 
+## v.1.3 UI Update...
+
+* Made some very minor changes. The header now looks like... a header, and I touched up some other UI components. Still got to work on the UX.
+
+I promise a UX update is coming soon just bear with me.
+
 ## v1.2: Some things.
 
 * [The posts page](/posts/) now shows all posts.
