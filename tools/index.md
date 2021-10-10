@@ -8,6 +8,10 @@ desc: My Web Tools
 
 I occasionally make little web tools for fun. They are nothing serious and are not maintained for very long.
 
+## [Discord Message Previewer](/tools/discord-message-previewer)
+
+Discord message generator, made so you can preview role icons and see how they look!
+
 ## [Unique Idea Generator](/tools/unique-idea-generator/)
 
 A tool that gives a random Geometry Dash level idea out of a huge selection of them. They are usually very silly or abstract, which make for super fun build challenges.
