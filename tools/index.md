@@ -8,7 +8,11 @@ desc: My Web Tools
 
 I occasionally make little web tools for fun. They are nothing serious and are not maintained for very long.
 
-## [Discord Message Previewer](/tools/discord-message-previewer)
+## [Subscriber Bar Generator](/tools/sub-bar-generator/)
+
+This is a tool designed to make simple subscriber progress bars for YouTube banners. It is designed to fit any art style and does all the calculations for you.
+
+## [Discord Message Previewer](/tools/discord-message-previewer/)
 
 Discord message generator, made so you can preview role icons and see how they look!
 
